@@ -1,18 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dancaires/bamboolib/master)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/dancaires/bamboolib/master
-
-# bamboolib - template for creating your own binder notebook
-
-
-## How to use this?
-
-You can run this repo in a Jupyter Notebook on Binder by clicking on the following button:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/8080labs/bamboolib_binder_template/master?filepath=bamboolib_demo_titanic.ipynb)
-
-
 
 ### How to use bamboolib on any other Open Data?
 
