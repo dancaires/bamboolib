@@ -1,3 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dancaires/bamboolib/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/dancaires/bamboolib/master
+
 # bamboolib - template for creating your own binder notebook
 
 
